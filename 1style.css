@@ -4,6 +4,7 @@ html {
 
 body {
 	margin-bottom: 80px;
+	margin-top: 35px;
 }
 
 .jumbotron img {
@@ -13,6 +14,7 @@ body {
 
 .about {
 	margin-top: -25px;
+	text-align: justify;
 }
 
 hr {
